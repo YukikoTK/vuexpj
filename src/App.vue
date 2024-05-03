@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <button @click="increase">増加</button>
+    <button @click="increase">増加コンフリクト発生！</button>
     <p>{{ $store.state.count }}</p>
   </div>
 </template>
